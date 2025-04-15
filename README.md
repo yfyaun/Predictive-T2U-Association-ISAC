@@ -1,7 +1,7 @@
 # Predictive Target-to-User Association in Complex Scenarios via Hybrid-Field ISAC Signaling
 
 This repository contains the simulation code for the paper titled "Predictive Target-to-User Association in Complex
-Scenarios via Hybrid-Field ISAC Signaling" submitted to IEEE Vehicular Technology Conference 2025.
+Scenarios via Hybrid-Field ISAC Signaling" accepted by IEEE Vehicular Technology Conference 2025.
 
 ## Running the Simulation
 
@@ -15,7 +15,7 @@ Scenarios via Hybrid-Field ISAC Signaling" submitted to IEEE Vehicular Technolog
    ```
    run('result_visualization.m')
    ```
-   This will generate figures showing tracking performance, achievable rates, and cumulative distribution functions.
+   This will generate figures in the paper, showing tracking performance (Fig. 4), achievable rates (Fig. 5), and cumulative distribution functions (Fig. 6).
 
 ## Directory Structure
 
@@ -25,4 +25,11 @@ Scenarios via Hybrid-Field ISAC Signaling" submitted to IEEE Vehicular Technolog
 
 ## Citation
 
-If you use this simulation code in any way, please cite the paper above.
+If you use this simulation code in any way, please cite the following paper:
+```bibtex
+@article{yuan2025predictive,
+  title={Predictive Target-to-User Association in Complex Scenarios via Hybrid-Field ISAC Signaling},
+  author={Yuan, Yifeng and Wen, Miaowen and Zheng, Xinhu and Wang, Shuoyao and Gao, Shijian},
+  journal={arXiv preprint arXiv:2501.10676},
+  year={2025}
+}
