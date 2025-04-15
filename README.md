@@ -21,7 +21,7 @@ Scenarios via Hybrid-Field ISAC Signaling" accepted by IEEE Vehicular Technology
 
 - `functions/`: Core implementation of tracking algorithms and simulation components
 - `trajectory_data/`: Vehicle trajectory data used in simulations
-- `results/`: Output directory for simulation results
+- `results/`: Output directory for simulation results (Please create the `results/` folder before running)
 
 ## Citation
 
